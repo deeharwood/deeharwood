@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deeharwood
 - 👀 I’m interested in learning about various apps and languages
-- 🌱 I’m currently learning shopify
+- 🌱 I’m currently learning ai and docker with using aws and github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
